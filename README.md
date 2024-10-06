@@ -7,7 +7,7 @@
 ```ts
 import { Result, Ok, Err } from '@ayios/result';
 
-async function getUser(): Promise<number> {
+async function doReject(): Promise<number> {
     return new Promise((_, reject) => reject('oh no'));
 }
 

@@ -1,6 +1,6 @@
 {
   "name": "@ayios/result",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A rust-like way of handling results.",
   "main": "out/src/index.js",
   "keywords": [],
